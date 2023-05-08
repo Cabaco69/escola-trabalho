@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-image: linear-gradient( purple 35%,red);
+  height: 100vh;
+}
+
+.cabeçalho-imagem {
+  width: 15%;
+  height: 200px;
+  border-radius: 50px;
+}
+
+header {
+
+  background-color:purple;
+  color: white;
+
+}
